@@ -124,7 +124,7 @@ Options for the `MODEL_SIZE` argument are "tiny", "small", "base_plus" (default)
 
 ### Starting the Frontend
 
-If you wish to run the frontend separately (useful for development), follow these steps:
+If you wish to run the frontend separatelpipy (useful for development), follow these steps:
 
 1. **Navigate to demo frontend directory:**
 

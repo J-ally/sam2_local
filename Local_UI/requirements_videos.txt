@@ -1,0 +1,10 @@
+Flask
+opencv-python
+numpy
+matplotlib
+pandas
+PyQt5
+scipy
+seaborn
+moviepy
+pyarrow
